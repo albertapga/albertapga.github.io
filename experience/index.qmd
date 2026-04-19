@@ -10,7 +10,7 @@ An overview of my professional trajectory in meteorology, climate services, and 
 ::: {.award-entry}
 ### Climate Services Technician
 **Meteorological Service of Catalonia (SMC)** · Departament de Territori, Habitatge i Transició Ecològica  
-📅 November 2023 – present · 📍 Barcelona
+📅 February 2024 – present · 📍 Barcelona
 
 Providing climate data and products to describe recent weather evolution in its climatic context. Supporting decision-making processes and responding to meteorological information needs, under the Programme for Drought Management Support (*Programa de Suport a la Gestió de la Sequera*).
 :::
@@ -18,18 +18,11 @@ Providing climate data and products to describe recent weather evolution in its 
 ::: {.award-entry}
 ### Research Engineer — Atmospheric Composition Group
 **Barcelona Supercomputing Center (BSC-CNS)**  
-📅 November 2023 – present · 📍 Barcelona
+📅 November 2023 – February 2024 · 📍 Barcelona
 
 Collection and processing of emission data for use in modelling system development. Development and comparison of methodologies to estimate pollutant emissions. Modelling, post-processing and analysis of results (Python, R).
 :::
 
-::: {.award-entry}
-### Climate Services Technician
-**Meteorological Service of Catalonia (SMC)**  
-📅 January 2021 – April 2023 · 📍 Barcelona
-
-Preparation of climate monitoring bulletins at monthly, seasonal and annual scales. Climate series analysis and cartography (ArcGIS, QGIS). Development of algorithms (Python, R) to automate tasks across the Climate Services and Climate Change teams. User support: data requests, meteorological information queries, and episode reports.
-:::
 
 ::: {.award-entry}
 ### Air Quality Department Intern
