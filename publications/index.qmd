@@ -14,7 +14,7 @@ A full list of my publications and conference contributions.
 **CADTEP: A new daily quality-controlled and homogenized climate database for Catalonia (1950–2021)**  
 Prohom M, Domonkos P, Cunillera J, Barrera-Escoda T, Busto M, Herrero-Anaya M, **Aparicio A**, Reynés J  
 *International Journal of Climatology*, 2023  
-[{{< fa link >}} DOI](https://doi.org/10.1002/joc.8116)
+[{{< fa link >}} DOI](https://doi.org/10.1002/joc.8116) · [{{< fa arrow-up-right-from-square >}} Full text](https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.8116)
 
 ::: {.cite-block}
 ```bibtex
@@ -60,8 +60,8 @@ Prohom M, Domonkos P, Cunillera J, Barrera-Escoda T, Busto M, Herrero-Anaya M, *
 **Enhancing meteorological report access and response time: How the Meteorological Service of Catalonia addresses the rise in weather-related claims**  
 **Aparicio, A.**  
 *EMS Annual Meeting 2024*  
-[{{< fa link >}} DOI](https://doi.org/10.5194/ems2024-234)  
-🏆 *Outstanding Poster Award*
+[{{< fa link >}} DOI](https://doi.org/10.5194/ems2024-234) · [{{< fa arrow-up-right-from-square >}} Abstract](https://meetingorganizer.copernicus.org/EMS2024/EMS2024-234.html)  
+🏆 *Outstanding Poster Award — [EMS announcement](https://www.emetsoc.org/outstanding-poster-award-ems2024/)*
 :::
 
 ### 2022
@@ -70,7 +70,7 @@ Prohom M, Domonkos P, Cunillera J, Barrera-Escoda T, Busto M, Herrero-Anaya M, *
 **A very high spatial resolution database for heating and cooling degree-days in Catalonia (1971–2100): observations and climate projections**  
 **Aparicio, A.**, Altava-Ortiz, V., Barberia, L., Barrera-Escoda, A., and Rius, A.  
 *EMS Annual Meeting 2022*, Bonn, Germany, 5–9 Sep 2022  
-[{{< fa link >}} DOI](https://doi.org/10.5194/ems2022-412)
+[{{< fa link >}} DOI](https://doi.org/10.5194/ems2022-412) · [{{< fa arrow-up-right-from-square >}} Abstract](https://meetingorganizer.copernicus.org/EMS2022/EMS2022-412.html)
 :::
 
 ### 2019
@@ -87,5 +87,5 @@ Cunillera, J.; Prohom, M.; Llabrés Brustenga, A.; Barrera, T.; **Aparicio, A.**
 **ARTYDOC, a new digital archive of meteorological documentation**  
 Prohom, M.; Herrero, M.; **Aparicio, A.**  
 *EMS Annual Meeting 2018*  
-[{{< fa link >}} DOI](https://doi.org/10.13140/RG.2.2.22745.16487)
+[{{< fa link >}} DOI](https://doi.org/10.13140/RG.2.2.22745.16487) · [{{< fa arrow-up-right-from-square >}} ResearchGate](https://www.researchgate.net/publication/328564295)
 :::
