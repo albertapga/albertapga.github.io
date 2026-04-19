@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Albert Aparicio Garcia"
+  description: "Research Engineer · Atmospheric Composition · BSC-CNS"
+  favicon: assets/favicon.ico
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications/index.qmd
+        text: Publications
+      - href: talks/index.qmd
+        text: Talks & Conferences
+      - href: awards/index.qmd
+        text: Awards
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/albert-aparicio-garcia/
+      - icon: envelope
+        href: mailto:albert.apariciog@gmail.com
+  page-footer:
+    center: "© 2026 Albert Aparicio Garcia · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: assets/custom.css
+    toc: true
+    toc-depth: 2
+    link-external-newwindow: true

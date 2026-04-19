@@ -1,0 +1,71 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](assets/profile.jpg){.profile-photo}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+
+# Albert Aparicio Garcia {.mt-2}
+
+**Research Engineer — Atmospheric Composition Group**  
+*Barcelona Supercomputing Center (BSC-CNS)*  
+📍 Barcelona, Catalonia
+
+I am a physicist and meteorologist working at the Atmospheric Composition group of the Barcelona Supercomputing Center. My work focuses on emission data processing, pollutant emission estimation methodologies, and modelling. Previously, I worked as a Climate Services Technician at the Meteorological Service of Catalonia (SMC), where I developed tools for climate monitoring, data quality control, and user-facing meteorological reports.
+
+::: {.contact-links}
+[{{< fa envelope >}} Email](mailto:albert.apariciog@gmail.com){.btn .btn-outline-primary .btn-sm}
+[{{< fa brands linkedin >}} LinkedIn](https://www.linkedin.com/in/albert-aparicio-garcia/){.btn .btn-outline-secondary .btn-sm}
+:::
+
+:::
+
+::::
+
+---
+
+## Research Interests
+
+- **Atmospheric composition** — emission inventories, pollutant dispersion modelling
+- **Climate services** — climate monitoring, degree-day databases, extreme event reporting
+- **Numerical modelling** — WRF, AERMOD, CALPUFF, air quality modelling
+- **Data science** — Python, R, GIS (ArcGIS, QGIS), SQL, climate data analysis
+
+---
+
+## Recent Highlights
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### 📄 Latest Publication
+**CADTEP: A new daily quality-controlled and homogenized climate database for Catalonia**  
+*International Journal of Climatology, 2023*  
+[→ All publications](publications/index.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### 🎤 Latest Talk
+**EUMETNET Data Management Workshop**  
+*Oslo, Norway · November 2025*  
+[→ All talks](talks/index.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### 🏆 Latest Award
+**EMS Outstanding Poster Award**  
+*EMS Annual Meeting 2024*  
+[→ All awards](awards/index.qmd)
+:::
+
+:::
