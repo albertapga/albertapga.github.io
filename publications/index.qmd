@@ -1,0 +1,91 @@
+---
+title: "Publications"
+toc: true
+toc-title: "Jump to"
+---
+
+A full list of my publications and conference contributions.
+
+---
+
+## Journal Articles
+
+::: {.pub-entry}
+**CADTEP: A new daily quality-controlled and homogenized climate database for Catalonia (1950–2021)**  
+Prohom M, Domonkos P, Cunillera J, Barrera-Escoda T, Busto M, Herrero-Anaya M, **Aparicio A**, Reynés J  
+*International Journal of Climatology*, 2023  
+[{{< fa link >}} DOI](https://doi.org/10.1002/joc.8116)
+
+::: {.cite-block}
+```bibtex
+@article{prohom2023cadtep,
+  author  = {Prohom, M. and Domonkos, P. and Cunillera, J. and Barrera-Escoda, T.
+             and Busto, M. and Herrero-Anaya, M. and Aparicio, A. and Reynés, J.},
+  title   = {CADTEP: A new daily quality-controlled and homogenized climate
+             database for Catalonia (1950--2021)},
+  journal = {International Journal of Climatology},
+  year    = {2023},
+  doi     = {10.1002/joc.8116}
+}
+```
+:::
+:::
+
+---
+
+## Book Chapters & Other Publications
+
+::: {.pub-entry}
+**Història del fons d'observacions meteorològiques del far de Sant Sebastià**  
+**Aparicio, A.**  
+*Estudis del Baix Empordà*, (35), pp. 185–195, 2016
+:::
+
+---
+
+## Conference Contributions
+
+### 2025
+
+::: {.pub-entry}
+**Optimizing Climate Services for High-Demand Use Cases: the Experience of Meteorological Service of Catalonia with Insurance-Related Reports**  
+**Aparicio, A.**  
+*15th EUMETNET Data Management Workshop "Shaping Climate Services for the Future"*  
+📅 4–6 November 2025 · 📍 Oslo, Norway (online presentation)
+:::
+
+### 2024
+
+::: {.pub-entry}
+**Enhancing meteorological report access and response time: How the Meteorological Service of Catalonia addresses the rise in weather-related claims**  
+**Aparicio, A.**  
+*EMS Annual Meeting 2024*  
+[{{< fa link >}} DOI](https://doi.org/10.5194/ems2024-234)  
+🏆 *Outstanding Poster Award*
+:::
+
+### 2022
+
+::: {.pub-entry}
+**A very high spatial resolution database for heating and cooling degree-days in Catalonia (1971–2100): observations and climate projections**  
+**Aparicio, A.**, Altava-Ortiz, V., Barberia, L., Barrera-Escoda, A., and Rius, A.  
+*EMS Annual Meeting 2022*, Bonn, Germany, 5–9 Sep 2022  
+[{{< fa link >}} DOI](https://doi.org/10.5194/ems2022-412)
+:::
+
+### 2019
+
+::: {.pub-entry}
+**Lessons learnt applying a daily quality control on temperature and precipitation series**  
+Cunillera, J.; Prohom, M.; Llabrés Brustenga, A.; Barrera, T.; **Aparicio, A.**; Busto, M.  
+*12th EUMETNET Data Management Workshop 2019*
+:::
+
+### 2018
+
+::: {.pub-entry}
+**ARTYDOC, a new digital archive of meteorological documentation**  
+Prohom, M.; Herrero, M.; **Aparicio, A.**  
+*EMS Annual Meeting 2018*  
+[{{< fa link >}} DOI](https://doi.org/10.13140/RG.2.2.22745.16487)
+:::
