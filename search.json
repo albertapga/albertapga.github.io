@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Albert Aparicio Garcia",
+    "section": "",
+    "text": "Research Engineer — Atmospheric Composition Group\nBarcelona Supercomputing Center (BSC-CNS)\n📍 Barcelona, Catalonia\nI am a physicist and meteorologist working at the Atmospheric Composition group of the Barcelona Supercomputing Center. My work focuses on emission data processing, pollutant emission estimation methodologies, and modelling. Previously, I worked as a Climate Services Technician at the Meteorological Service of Catalonia (SMC), where I developed tools for climate monitoring, data quality control, and user-facing meteorological reports.\n\n{{&lt; fa envelope &gt;}} Email {{&lt; fa brands linkedin &gt;}} LinkedIn"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Albert Aparicio Garcia",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nAtmospheric composition — emission inventories, pollutant dispersion modelling\nClimate services — climate monitoring, degree-day databases, extreme event reporting\nNumerical modelling — WRF, AERMOD, CALPUFF, air quality modelling\nData science — Python, R, GIS (ArcGIS, QGIS), SQL, climate data analysis"
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "Albert Aparicio Garcia",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\n\n📄 Latest Publication\nCADTEP: A new daily quality-controlled and homogenized climate database for Catalonia\nInternational Journal of Climatology, 2023\n→ All publications\n\n\n🎤 Latest Talk\nEUMETNET Data Management Workshop\nOslo, Norway · November 2025\n→ All talks\n\n\n🏆 Latest Award\nEMS Outstanding Poster Award\nEMS Annual Meeting 2024\n→ All awards"
+  }
+]
