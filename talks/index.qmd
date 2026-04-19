@@ -1,0 +1,67 @@
+---
+title: "Talks & Conferences"
+toc: true
+toc-title: "Jump to"
+---
+
+An overview of my presentations at international conferences, workshops, and seminars.
+
+---
+
+## 2025
+
+::: {.talk-entry}
+**Optimizing Climate Services for High-Demand Use Cases: the Experience of Meteorological Service of Catalonia with Insurance-Related Reports**  
+*15th EUMETNET Data Management Workshop "Shaping Climate Services for the Future"*  
+📅 4–6 November 2025 · 📍 Oslo, Norway  
+Type: Online oral presentation
+:::
+
+---
+
+## 2024
+
+::: {.talk-entry}
+**Enhancing meteorological report access and response time: How the Meteorological Service of Catalonia addresses the rise in weather-related claims**  
+*EMS Annual Meeting 2024*  
+📅 2024  
+Type: Poster · 🏆 *Outstanding Poster Award*  
+[{{< fa link >}} DOI](https://doi.org/10.5194/ems2024-234)
+:::
+
+---
+
+## 2022
+
+::: {.talk-entry}
+**A very high spatial resolution database for heating and cooling degree-days in Catalonia (1971–2100): observations and climate projections**  
+*EMS Annual Meeting 2022*  
+📅 5–9 September 2022 · 📍 Bonn, Germany  
+Type: Oral presentation  
+[{{< fa link >}} DOI](https://doi.org/10.5194/ems2022-412)
+:::
+
+---
+
+## 2019
+
+::: {.talk-entry}
+**Lessons learnt applying a daily quality control on temperature and precipitation series**  
+*12th EUMETNET Data Management Workshop 2019*  
+📅 2019  
+Type: Contribution  
+Authors: Cunillera, J.; Prohom, M.; Llabrés Brustenga, A.; Barrera, T.; **Aparicio, A.**; Busto, M.
+:::
+
+---
+
+## 2018
+
+::: {.talk-entry}
+**ARTYDOC, a new digital archive of meteorological documentation**  
+*EMS Annual Meeting 2018*  
+📅 2018  
+Type: Contribution  
+Authors: Prohom, M.; Herrero, M.; **Aparicio, A.**  
+[{{< fa link >}} DOI](https://doi.org/10.13140/RG.2.2.22745.16487)
+:::
