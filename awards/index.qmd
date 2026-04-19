@@ -1,0 +1,50 @@
+---
+title: "Awards & Recognition"
+toc: false
+---
+
+Recognition received for research contributions, scientific communication, and academic merit.
+
+---
+
+## Research & Science Communication Awards
+
+::: {.award-entry}
+### 🏆 Outstanding Poster Award — EMS Annual Meeting 2024
+**European Meteorological Society**  
+📅 2024  
+Awarded unanimously by the committee for the poster *"Enhancing meteorological report access and response time: How the Meteorological Service of Catalonia addresses the rise in weather-related claims"*.  
+[{{< fa link >}} Award announcement](https://www.emetsoc.org/outstanding-poster-award-ems2024/)
+:::
+
+::: {.award-entry}
+### 🏆 Premi de Recerca Jove
+**Departament d'Economia i Coneixement, Generalitat de Catalunya**  
+📅 2011  
+Award for young researchers. Recognised work: *"Testing the energy of the future: Dye Solar Cells"*.
+:::
+
+::: {.award-entry}
+### 🏅 Menció Honorífica de la Societat Catalana de Física
+**Societat Catalana de Física**  
+📅 2011  
+Honourable mention for the work: *"Testing the energy of the future: Dye Solar Cells"*.
+:::
+
+::: {.award-entry}
+### 🏆 Premi CIRIT
+**Consell Interdepartamental de Recerca i Innovació Tecnològica, Generalitat de Catalunya**  
+📅 2009  
+Award promoting scientific spirit among young people. Recognised work: *"Palafrugell, un viatge pel seu clima"*.
+:::
+
+---
+
+## Fellowships & Programmes
+
+::: {.award-entry}
+### Programa Joves i Ciència
+**Fundació Catalunya — La Pedrera**  
+📅 2009–2011  
+Selected as a participant in this competitive programme providing young students with their first research experience. Developed a project on organic photovoltaic energy.
+:::
