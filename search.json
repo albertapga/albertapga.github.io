@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Albert Aparicio Garcia",
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
     "section": "",
-    "text": "Research Engineer — Atmospheric Composition Group\nBarcelona Supercomputing Center (BSC-CNS)\n📍 Barcelona, Catalonia\nI am a physicist and meteorologist working at the Atmospheric Composition group of the Barcelona Supercomputing Center. My work focuses on emission data processing, pollutant emission estimation methodologies, and modelling. Previously, I worked as a Climate Services Technician at the Meteorological Service of Catalonia (SMC), where I developed tools for climate monitoring, data quality control, and user-facing meteorological reports.\n\n{{&lt; fa envelope &gt;}} Email {{&lt; fa brands linkedin &gt;}} LinkedIn"
+    "text": "A full list of my publications and conference contributions."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Albert Aparicio Garcia",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nAtmospheric composition — emission inventories, pollutant dispersion modelling\nClimate services — climate monitoring, degree-day databases, extreme event reporting\nNumerical modelling — WRF, AERMOD, CALPUFF, air quality modelling\nData science — Python, R, GIS (ArcGIS, QGIS), SQL, climate data analysis"
+    "objectID": "publications/index.html#journal-articles",
+    "href": "publications/index.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nCADTEP: A new daily quality-controlled and homogenized climate database for Catalonia (1950–2021)\nProhom M, Domonkos P, Cunillera J, Barrera-Escoda T, Busto M, Herrero-Anaya M, Aparicio A, Reynés J\nInternational Journal of Climatology, 2023\n{{&lt; fa link &gt;}} DOI\n\n@article{prohom2023cadtep,\n  author  = {Prohom, M. and Domonkos, P. and Cunillera, J. and Barrera-Escoda, T.\n             and Busto, M. and Herrero-Anaya, M. and Aparicio, A. and Reynés, J.},\n  title   = {CADTEP: A new daily quality-controlled and homogenized climate\n             database for Catalonia (1950--2021)},\n  journal = {International Journal of Climatology},\n  year    = {2023},\n  doi     = {10.1002/joc.8116}\n}"
   },
   {
-    "objectID": "index.html#recent-highlights",
-    "href": "index.html#recent-highlights",
-    "title": "Albert Aparicio Garcia",
-    "section": "Recent Highlights",
-    "text": "Recent Highlights\n\n\n📄 Latest Publication\nCADTEP: A new daily quality-controlled and homogenized climate database for Catalonia\nInternational Journal of Climatology, 2023\n→ All publications\n\n\n🎤 Latest Talk\nEUMETNET Data Management Workshop\nOslo, Norway · November 2025\n→ All talks\n\n\n🏆 Latest Award\nEMS Outstanding Poster Award\nEMS Annual Meeting 2024\n→ All awards"
+    "objectID": "publications/index.html#book-chapters-other-publications",
+    "href": "publications/index.html#book-chapters-other-publications",
+    "title": "Publications",
+    "section": "Book Chapters & Other Publications",
+    "text": "Book Chapters & Other Publications\n\nHistòria del fons d’observacions meteorològiques del far de Sant Sebastià\nAparicio, A.\nEstudis del Baix Empordà, (35), pp. 185–195, 2016"
+  },
+  {
+    "objectID": "publications/index.html#conference-contributions",
+    "href": "publications/index.html#conference-contributions",
+    "title": "Publications",
+    "section": "Conference Contributions",
+    "text": "Conference Contributions\n\n2025\n\nOptimizing Climate Services for High-Demand Use Cases: the Experience of Meteorological Service of Catalonia with Insurance-Related Reports\nAparicio, A.\n15th EUMETNET Data Management Workshop “Shaping Climate Services for the Future”\n📅 4–6 November 2025 · 📍 Oslo, Norway (online presentation)\n\n\n\n2024\n\nEnhancing meteorological report access and response time: How the Meteorological Service of Catalonia addresses the rise in weather-related claims\nAparicio, A.\nEMS Annual Meeting 2024\n{{&lt; fa link &gt;}} DOI\n🏆 Outstanding Poster Award\n\n\n\n2022\n\nA very high spatial resolution database for heating and cooling degree-days in Catalonia (1971–2100): observations and climate projections\nAparicio, A., Altava-Ortiz, V., Barberia, L., Barrera-Escoda, A., and Rius, A.\nEMS Annual Meeting 2022, Bonn, Germany, 5–9 Sep 2022\n{{&lt; fa link &gt;}} DOI\n\n\n\n2019\n\nLessons learnt applying a daily quality control on temperature and precipitation series\nCunillera, J.; Prohom, M.; Llabrés Brustenga, A.; Barrera, T.; Aparicio, A.; Busto, M.\n12th EUMETNET Data Management Workshop 2019\n\n\n\n2018\n\nARTYDOC, a new digital archive of meteorological documentation\nProhom, M.; Herrero, M.; Aparicio, A.\nEMS Annual Meeting 2018\n{{&lt; fa link &gt;}} DOI"
   },
   {
     "objectID": "awards/index.html",
@@ -40,5 +47,26 @@
     "title": "Awards & Recognition",
     "section": "Fellowships & Programmes",
     "text": "Fellowships & Programmes\n\nPrograma Joves i Ciència\nFundació Catalunya — La Pedrera\n📅 2009–2011\nSelected as a participant in this competitive programme providing young students with their first research experience. Developed a project on organic photovoltaic energy."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Albert Aparicio Garcia",
+    "section": "",
+    "text": "Research Engineer — Atmospheric Composition Group\nBarcelona Supercomputing Center (BSC-CNS)\n📍 Barcelona, Catalonia\nI am a physicist and meteorologist working at the Atmospheric Composition group of the Barcelona Supercomputing Center. My work focuses on emission data processing, pollutant emission estimation methodologies, and modelling. Previously, I worked as a Climate Services Technician at the Meteorological Service of Catalonia (SMC), where I developed tools for climate monitoring, data quality control, and user-facing meteorological reports.\n\n{{&lt; fa envelope &gt;}} Email {{&lt; fa brands linkedin &gt;}} LinkedIn"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Albert Aparicio Garcia",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nAtmospheric composition — emission inventories, pollutant dispersion modelling\nClimate services — climate monitoring, degree-day databases, extreme event reporting\nNumerical modelling — WRF, AERMOD, CALPUFF, air quality modelling\nData science — Python, R, GIS (ArcGIS, QGIS), SQL, climate data analysis"
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "Albert Aparicio Garcia",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\n\n📄 Latest Publication\nCADTEP: A new daily quality-controlled and homogenized climate database for Catalonia\nInternational Journal of Climatology, 2023\n→ All publications\n\n\n🎤 Latest Talk\nEUMETNET Data Management Workshop\nOslo, Norway · November 2025\n→ All talks\n\n\n🏆 Latest Award\nEMS Outstanding Poster Award\nEMS Annual Meeting 2024\n→ All awards"
   }
 ]
