@@ -28,46 +28,11 @@
     "text": "Conference Contributions\n\n2025\n\nOptimizing Climate Services for High-Demand Use Cases: the Experience of Meteorological Service of Catalonia with Insurance-Related Reports\nAparicio, A.\n15th EUMETNET Data Management Workshop “Shaping Climate Services for the Future”\n📅 4–6 November 2025 · 📍 Oslo, Norway (online presentation)\n\n\n\n2024\n\nEnhancing meteorological report access and response time: How the Meteorological Service of Catalonia addresses the rise in weather-related claims\nAparicio, A.\nEMS Annual Meeting 2024\n{{&lt; fa link &gt;}} DOI · {{&lt; fa arrow-up-right-from-square &gt;}} Abstract\n🏆 Outstanding Poster Award — EMS announcement\n\n\n\n2022\n\nA very high spatial resolution database for heating and cooling degree-days in Catalonia (1971–2100): observations and climate projections\nAparicio, A., Altava-Ortiz, V., Barberia, L., Barrera-Escoda, A., and Rius, A.\nEMS Annual Meeting 2022, Bonn, Germany, 5–9 Sep 2022\n{{&lt; fa link &gt;}} DOI · {{&lt; fa arrow-up-right-from-square &gt;}} Abstract\n\n\n\n2019\n\nLessons learnt applying a daily quality control on temperature and precipitation series\nCunillera, J.; Prohom, M.; Llabrés Brustenga, A.; Barrera, T.; Aparicio, A.; Busto, M.\n12th EUMETNET Data Management Workshop 2019\n\n\n\n2018\n\nARTYDOC, a new digital archive of meteorological documentation\nProhom, M.; Herrero, M.; Aparicio, A.\nEMS Annual Meeting 2018\n{{&lt; fa link &gt;}} DOI · {{&lt; fa arrow-up-right-from-square &gt;}} ResearchGate"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Albert Aparicio Garcia",
+    "objectID": "experience/experience_index.html",
+    "href": "experience/experience_index.html",
+    "title": "Experience",
     "section": "",
-    "text": "Climate Services Technician — Climatology Area\nMeteorological Service of Catalonia (SMC) · Departament de Territori, Habitatge i Transició Ecològica\n📍 Barcelona, Catalonia\nI am a physicist and meteorologist currently working as a Climate Services Technician at the Climatology Area of the Meteorological Service of Catalonia (SMC), under the Programme for Drought Management Support (Programa de Suport a la Gestió de la Sequera). My work focuses on providing climate data and products to describe recent weather evolution in its climatic context, supporting decision-making and responding to meteorological information needs.\n\n{{&lt; fa envelope &gt;}} Email {{&lt; fa brands linkedin &gt;}} LinkedIn"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Albert Aparicio Garcia",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nAtmospheric composition — emission inventories, pollutant dispersion modelling\nClimate services — climate monitoring, degree-day databases, extreme event reporting\nNumerical modelling — WRF, AERMOD, CALPUFF, air quality modelling\nData science — Python, R, GIS (ArcGIS, QGIS), SQL, climate data analysis"
-  },
-  {
-    "objectID": "index.html#recent-highlights",
-    "href": "index.html#recent-highlights",
-    "title": "Albert Aparicio Garcia",
-    "section": "Recent Highlights",
-    "text": "Recent Highlights\n\n\n📄 Latest Publication\nCADTEP: A new daily quality-controlled and homogenized climate database for Catalonia\nInternational Journal of Climatology, 2023\n→ All publications\n\n\n🎤 Latest Talk\nEUMETNET Data Management Workshop\nOslo, Norway · November 2025\n→ All talks\n\n\n🏆 Latest Award\nEMS Outstanding Poster Award\nEMS Annual Meeting 2024\n→ All awards"
-  },
-  {
-    "objectID": "awards/index.html",
-    "href": "awards/index.html",
-    "title": "Awards & Recognition",
-    "section": "",
-    "text": "Recognition received for research contributions, scientific communication, and academic merit."
-  },
-  {
-    "objectID": "awards/index.html#research-science-communication-awards",
-    "href": "awards/index.html#research-science-communication-awards",
-    "title": "Awards & Recognition",
-    "section": "Research & Science Communication Awards",
-    "text": "Research & Science Communication Awards\n\n🏆 Outstanding Poster Award — EMS Annual Meeting 2024\nEuropean Meteorological Society\n📅 2024\nAwarded unanimously by the committee for the poster “Enhancing meteorological report access and response time: How the Meteorological Service of Catalonia addresses the rise in weather-related claims”.\n{{&lt; fa link &gt;}} Award announcement\n\n\n🏆 Premi de Recerca Jove\nDepartament d’Economia i Coneixement, Generalitat de Catalunya\n📅 2011\nAward for young researchers. Recognised work: “Testing the energy of the future: Dye Solar Cells”.\n\n\n🏅 Menció Honorífica de la Societat Catalana de Física\nSocietat Catalana de Física\n📅 2011\nHonourable mention for the work: “Testing the energy of the future: Dye Solar Cells”.\n\n\n🏆 Premi CIRIT\nConsell Interdepartamental de Recerca i Innovació Tecnològica, Generalitat de Catalunya\n📅 2009\nAward promoting scientific spirit among young people. Recognised work: “Palafrugell, un viatge pel seu clima”."
-  },
-  {
-    "objectID": "awards/index.html#fellowships-programmes",
-    "href": "awards/index.html#fellowships-programmes",
-    "title": "Awards & Recognition",
-    "section": "Fellowships & Programmes",
-    "text": "Fellowships & Programmes\n\nPrograma Joves i Ciència\nFundació Catalunya — La Pedrera\n📅 2009–2011\nSelected as a participant in this competitive programme providing young students with their first research experience. Developed a project on organic photovoltaic energy."
+    "text": "An overview of my professional trajectory in meteorology, climate services, and atmospheric research.\n\n\nClimate Services Technician\nMeteorological Service of Catalonia (SMC) · Departament de Territori, Habitatge i Transició Ecològica\n📅 November 2023 – present · 📍 Barcelona\nProviding climate data and products to describe recent weather evolution in its climatic context. Supporting decision-making processes and responding to meteorological information needs, under the Programme for Drought Management Support (Programa de Suport a la Gestió de la Sequera).\n\n\nResearch Engineer — Atmospheric Composition Group\nBarcelona Supercomputing Center (BSC-CNS)\n📅 November 2023 – present · 📍 Barcelona\nCollection and processing of emission data for use in modelling system development. Development and comparison of methodologies to estimate pollutant emissions. Modelling, post-processing and analysis of results (Python, R).\n\n\nClimate Services Technician\nMeteorological Service of Catalonia (SMC)\n📅 January 2021 – April 2023 · 📍 Barcelona\nPreparation of climate monitoring bulletins at monthly, seasonal and annual scales. Climate series analysis and cartography (ArcGIS, QGIS). Development of algorithms (Python, R) to automate tasks across the Climate Services and Climate Change teams. User support: data requests, meteorological information queries, and episode reports.\n\n\nAir Quality Department Intern\nMeteosim SL\n📅 October 2019 – March 2020 · 📍 Barcelona\nEnvironmental consultancy support: GIS treatment of pollutant source locations and dispersion (QGIS). Meteorological simulations (WRF) and air quality simulations (AERMOD, CALPUFF). Development of emission inventories for the mining industry (QGIS, R).\n\n\nClimatology Area Intern\nMeteorological Service of Catalonia (SMC)\n📅 January 2018 – September 2019 · 📍 Barcelona\nSupport in meteorological reports and climate bulletins. Participation in climate data rescue, quality control and digitisation projects. Database exploitation (SQL), statistical analysis and visualisation of climate series (R).\n\n\nCurricular Internship\nInstitut Català de Ciències del Clima (IC3)\n📅 July 2016 – September 2016 · 📍 Barcelona\nAnalysis of meteorological data from the ClimaDat network. Development of R scripts to identify and classify sea breeze days at the Ebro Delta. Support to a study on pollutant dispersion during sea breeze episodes."
   },
   {
     "objectID": "talks/index.html",
@@ -112,8 +77,50 @@
     "text": "2018\n\nARTYDOC, a new digital archive of meteorological documentation\nEMS Annual Meeting 2018\n📅 2018\nType: Contribution\nAuthors: Prohom, M.; Herrero, M.; Aparicio, A.\n{{&lt; fa link &gt;}} DOI"
   },
   {
-    "objectID": "experience/experience_index.html",
-    "href": "experience/experience_index.html",
+    "objectID": "awards/index.html",
+    "href": "awards/index.html",
+    "title": "Awards & Recognition",
+    "section": "",
+    "text": "Recognition received for research contributions, scientific communication, and academic merit."
+  },
+  {
+    "objectID": "awards/index.html#research-science-communication-awards",
+    "href": "awards/index.html#research-science-communication-awards",
+    "title": "Awards & Recognition",
+    "section": "Research & Science Communication Awards",
+    "text": "Research & Science Communication Awards\n\n🏆 Outstanding Poster Award — EMS Annual Meeting 2024\nEuropean Meteorological Society\n📅 2024\nAwarded unanimously by the committee for the poster “Enhancing meteorological report access and response time: How the Meteorological Service of Catalonia addresses the rise in weather-related claims”.\n{{&lt; fa link &gt;}} Award announcement\n\n\n🏆 Premi de Recerca Jove\nDepartament d’Economia i Coneixement, Generalitat de Catalunya\n📅 2011\nAward for young researchers. Recognised work: “Testing the energy of the future: Dye Solar Cells”.\n\n\n🏅 Menció Honorífica de la Societat Catalana de Física\nSocietat Catalana de Física\n📅 2011\nHonourable mention for the work: “Testing the energy of the future: Dye Solar Cells”.\n\n\n🏆 Premi CIRIT\nConsell Interdepartamental de Recerca i Innovació Tecnològica, Generalitat de Catalunya\n📅 2009\nAward promoting scientific spirit among young people. Recognised work: “Palafrugell, un viatge pel seu clima”."
+  },
+  {
+    "objectID": "awards/index.html#fellowships-programmes",
+    "href": "awards/index.html#fellowships-programmes",
+    "title": "Awards & Recognition",
+    "section": "Fellowships & Programmes",
+    "text": "Fellowships & Programmes\n\nPrograma Joves i Ciència\nFundació Catalunya — La Pedrera\n📅 2009–2011\nSelected as a participant in this competitive programme providing young students with their first research experience. Developed a project on organic photovoltaic energy."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Albert Aparicio Garcia",
+    "section": "",
+    "text": "Climate Services Technician — Climatology Area\nMeteorological Service of Catalonia (SMC) · Departament de Territori, Habitatge i Transició Ecològica\n📍 Barcelona, Catalonia\nI am a physicist and meteorologist currently working as a Climate Services Technician at the Climatology Area of the Meteorological Service of Catalonia (SMC), under the Programme for Drought Management Support (Programa de Suport a la Gestió de la Sequera). My work focuses on providing climate data and products to describe recent weather evolution in its climatic context, supporting decision-making and responding to meteorological information needs.\n\n{{&lt; fa envelope &gt;}} Email {{&lt; fa brands linkedin &gt;}} LinkedIn"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Albert Aparicio Garcia",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nAtmospheric composition — emission inventories, pollutant dispersion modelling\nClimate services — climate monitoring, degree-day databases, extreme event reporting\nNumerical modelling — WRF, AERMOD, CALPUFF, air quality modelling\nData science — Python, R, GIS (ArcGIS, QGIS), SQL, climate data analysis"
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "Albert Aparicio Garcia",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\n\n📄 Latest Publication\nCADTEP: A new daily quality-controlled and homogenized climate database for Catalonia\nInternational Journal of Climatology, 2023\n→ All publications\n\n\n🎤 Latest Talk\nEUMETNET Data Management Workshop\nOslo, Norway · November 2025\n→ All talks\n\n\n🏆 Latest Award\nEMS Outstanding Poster Award\nEMS Annual Meeting 2024\n→ All awards"
+  },
+  {
+    "objectID": "experience/index.html",
+    "href": "experience/index.html",
     "title": "Experience",
     "section": "",
     "text": "An overview of my professional trajectory in meteorology, climate services, and atmospheric research.\n\n\nClimate Services Technician\nMeteorological Service of Catalonia (SMC) · Departament de Territori, Habitatge i Transició Ecològica\n📅 November 2023 – present · 📍 Barcelona\nProviding climate data and products to describe recent weather evolution in its climatic context. Supporting decision-making processes and responding to meteorological information needs, under the Programme for Drought Management Support (Programa de Suport a la Gestió de la Sequera).\n\n\nResearch Engineer — Atmospheric Composition Group\nBarcelona Supercomputing Center (BSC-CNS)\n📅 November 2023 – present · 📍 Barcelona\nCollection and processing of emission data for use in modelling system development. Development and comparison of methodologies to estimate pollutant emissions. Modelling, post-processing and analysis of results (Python, R).\n\n\nClimate Services Technician\nMeteorological Service of Catalonia (SMC)\n📅 January 2021 – April 2023 · 📍 Barcelona\nPreparation of climate monitoring bulletins at monthly, seasonal and annual scales. Climate series analysis and cartography (ArcGIS, QGIS). Development of algorithms (Python, R) to automate tasks across the Climate Services and Climate Change teams. User support: data requests, meteorological information queries, and episode reports.\n\n\nAir Quality Department Intern\nMeteosim SL\n📅 October 2019 – March 2020 · 📍 Barcelona\nEnvironmental consultancy support: GIS treatment of pollutant source locations and dispersion (QGIS). Meteorological simulations (WRF) and air quality simulations (AERMOD, CALPUFF). Development of emission inventories for the mining industry (QGIS, R).\n\n\nClimatology Area Intern\nMeteorological Service of Catalonia (SMC)\n📅 January 2018 – September 2019 · 📍 Barcelona\nSupport in meteorological reports and climate bulletins. Participation in climate data rescue, quality control and digitisation projects. Database exploitation (SQL), statistical analysis and visualisation of climate series (R).\n\n\nCurricular Internship\nInstitut Català de Ciències del Clima (IC3)\n📅 July 2016 – September 2016 · 📍 Barcelona\nAnalysis of meteorological data from the ClimaDat network. Development of R scripts to identify and classify sea breeze days at the Ebro Delta. Support to a study on pollutant dispersion during sea breeze episodes."

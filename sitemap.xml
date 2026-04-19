@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://albertapga.github.io/publications/index.html</loc>
-    <lastmod>2026-04-19T15:35:40.092Z</lastmod>
-  </url>
-  <url>
-    <loc>https://albertapga.github.io/index.html</loc>
-    <lastmod>2026-04-19T15:35:40.092Z</lastmod>
-  </url>
-  <url>
-    <loc>https://albertapga.github.io/awards/index.html</loc>
-    <lastmod>2026-04-19T15:35:40.092Z</lastmod>
-  </url>
-  <url>
-    <loc>https://albertapga.github.io/talks/index.html</loc>
-    <lastmod>2026-04-19T15:35:40.093Z</lastmod>
+    <lastmod>2026-04-19T15:37:32.025Z</lastmod>
   </url>
   <url>
     <loc>https://albertapga.github.io/experience/experience_index.html</loc>
-    <lastmod>2026-04-19T15:35:40.092Z</lastmod>
+    <lastmod>2026-04-19T15:37:32.024Z</lastmod>
+  </url>
+  <url>
+    <loc>https://albertapga.github.io/talks/index.html</loc>
+    <lastmod>2026-04-19T15:37:32.025Z</lastmod>
+  </url>
+  <url>
+    <loc>https://albertapga.github.io/awards/index.html</loc>
+    <lastmod>2026-04-19T15:37:32.024Z</lastmod>
+  </url>
+  <url>
+    <loc>https://albertapga.github.io/index.html</loc>
+    <lastmod>2026-04-19T15:37:32.025Z</lastmod>
+  </url>
+  <url>
+    <loc>https://albertapga.github.io/experience/index.html</loc>
+    <lastmod>2026-04-19T15:37:32.025Z</lastmod>
   </url>
 </urlset>
