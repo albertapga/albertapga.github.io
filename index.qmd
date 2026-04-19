@@ -17,14 +17,14 @@ toc: false
 
 # Albert Aparicio Garcia {.mt-2}
 
-**Research Engineer — Atmospheric Composition Group**  
-*Barcelona Supercomputing Center (BSC-CNS)*  
+**Climate Services Technician — Climatology Area**  
+*Meteorological Service of Catalonia (SMC) · Departament de Territori, Habitatge i Transició Ecològica*  
 📍 Barcelona, Catalonia
 
-I am a physicist and meteorologist working at the Atmospheric Composition group of the Barcelona Supercomputing Center. My work focuses on emission data processing, pollutant emission estimation methodologies, and modelling. Previously, I worked as a Climate Services Technician at the Meteorological Service of Catalonia (SMC), where I developed tools for climate monitoring, data quality control, and user-facing meteorological reports.
+I am a physicist and meteorologist currently working as a Climate Services Technician at the Climatology Area of the Meteorological Service of Catalonia (SMC), under the Programme for Drought Management Support (*Programa de Suport a la Gestió de la Sequera*). My work focuses on providing climate data and products to describe recent weather evolution in its climatic context, supporting decision-making and responding to meteorological information needs.
 
 ::: {.contact-links}
-[{{< fa envelope >}} Email](mailto:albert.apariciog@gmail.com){.btn .btn-outline-primary .btn-sm}
+[{{< fa envelope >}} Email](mailto:albertaparicio@gencat.cat){.btn .btn-outline-primary .btn-sm}
 [{{< fa brands linkedin >}} LinkedIn](https://www.linkedin.com/in/albert-aparicio-garcia/){.btn .btn-outline-secondary .btn-sm}
 :::
 
